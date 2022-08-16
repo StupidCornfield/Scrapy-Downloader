@@ -1,0 +1,3 @@
+[submodule "subreddit/subreddit/spiders/html"]
+	path = subreddit/subreddit/spiders/html
+	url = https://github.com/StupidCornfield/StupidCornfield.github.io
